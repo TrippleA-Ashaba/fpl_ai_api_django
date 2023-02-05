@@ -1,3 +1,4 @@
+import pandas as pd
 import requests
 
 FPL_URL = "https://fantasy.premierleague.com/api/bootstrap-static/"
